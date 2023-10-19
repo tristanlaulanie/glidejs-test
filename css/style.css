@@ -1,0 +1,24 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50vh;
+    margin-left: 10vw;
+}
+
+button {
+    padding: 1em;
+}
+
+img {
+    height: 14em;
+    width: 25em;
+}
